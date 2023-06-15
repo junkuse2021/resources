@@ -6,7 +6,7 @@
 
 3. [INT306 - DATABASE MANAGEMENT SYSTEMS](https://www.udemy.com/course/database-management-system/) __map: 30 (1 CA)__
 
-4. [INT315 - CLUSTER COMPUTING](INT315 - CLUSTER COMPUTING) __map: 50 (1 CA)__
+4. [INT315 - CLUSTER COMPUTING](https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/) __map: 50 (1 CA)__
 
 5. [CSE306 - COMPUTER NETWORKS](https://www.udemy.com/course/world-of-computer-networking/) __map: 80 (1 CA)__
 
